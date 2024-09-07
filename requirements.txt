@@ -1,0 +1,2 @@
+matplotlib==3.9.2
+ultralytics==8.2.89

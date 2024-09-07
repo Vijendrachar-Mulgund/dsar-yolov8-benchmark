@@ -1,0 +1,6 @@
+path: '/kaggle/input/dsar-yolo-v8-benchmark/benchmark_yolov8/data' # dataset root dir
+val: images/validate  # val images (relative to 'path')
+
+# Classes
+names:
+  0: person
